@@ -9,7 +9,7 @@ The Pie Chart is also interactive. If you hover over the chart, you will see the
 This tutorial is focusing on beginners in Python. Even you have never written a single line of code in Python, you will be able to have your pie chart by the end of this tutorial.
 
 ## Video Tutorial
-[![YouTube Video](https://img.youtube.com/vi/7o6Aqp6kjTgQ/0.jpg)](https://youtu.be/7o6Aqp6kjTgQ)
+[![YouTube Video](https://img.youtube.com/vi/7o6Aqp6kjTg/0.jpg)](https://youtu.be/7o6Aqp6kjTg)
 
 
 ## Requirements
